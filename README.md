@@ -10,6 +10,7 @@ General validation function to check if input is Ascii and if:
 3) Password
 4) Date
 5) Phone number
+
 are valid.
 
 Includes the option to return object 'person' containing validated information for passing to back-end.
